@@ -2,11 +2,13 @@ package practice3;
 
 public class DoWhileLoop {
     public static void main(String[] args) {
-        int x = 0;
+        int a = 0;
         do {
-            System.out.println("java");
+            System.out.println("Java for Future");
+            a++;
 
-        } while (x < 5);
+        } while (a<= 5 );
     }
 
 }
+
